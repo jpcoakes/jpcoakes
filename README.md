@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jpcoakes
-- 👀 I’m interested in learning how to share Apex, LWC, Aura, Javascript, and Visualforce code on Github
-- 🌱 I’m currently learning Apex, LWC, Aura, Visualforce, and Javascript
-- 💞️ I’m looking to collaborate on Salesforce custom code and projects
+- 👀 I’m currently developing custom Salesforce solutions using Apex, JavaScript, LWC, and occasionally Aura and Visualforce.
 - 📫 How to reach me jpcoakes@gmail.com
 
 <!---
