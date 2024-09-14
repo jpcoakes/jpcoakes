@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpcoakes
-- 👀 I’m currently developing custom Salesforce solutions using Apex, JavaScript, LWC, and occasionally Aura and Visualforce.
-- 🌱 I’m currently learning to do unit testing in Javascript using Jest and Vitest.
+- 👀 Most days I'm working on custom Salesforce solutions using LWC, Apex, JavaScript, and occasionally Aura and Visualforce.
+- 🌱 I'm currently working on a birding app using LWC's in Salesforce. I’m also still learning unit testing in Javascript using Jest and Vitest.
 - 📫 How to reach me jpcoakes@gmail.com
 
 <!---
